@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuotesFloetik</string>
+    <string name="from">From</string>
+    <string name="ciatech">CIATECH</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developperbyciatech">Developper par CIATECH</string>
+    <string name="connecter_vous">Connecter-Vous</string>
+
+</resources>
